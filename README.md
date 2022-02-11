@@ -17,3 +17,6 @@ The toggle in the bottom left-hand corner controls the direction of the ship (up
 The toggle in the bottom right-hand corner controls the clockwise and counterclowckwise rotation of the starfighter.
 The slider of the right side of the screen controls the speed of the fighter and changes the size of the afterburners in the game.
 The button in the middle of the right side of the screen is the "Fire" button and allows the user to shoot neon green lasers/bullets from the ship in the game.
+
+### Developer Notes
+I developed most of the components in the game, including models, animations, control art, materials, and programmed it myself (with help from available Unity resources).
